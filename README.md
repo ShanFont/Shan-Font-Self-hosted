@@ -1,8 +1,10 @@
-# Shan Font (Self-Hosted)
+# Self-hosting Shan Font
 
 ![Shan Font Self-Hosting](https://shanfont.com/wp-content/uploads/2025/07/shan-font-on-self-hosting.jpg)
 
 Self-hosting **Shan** webfonts includes optimized WOFF2 fonts, CSS with Unicode ranges, and server configurations for optimal caching and security.
+
+**Download:** [shan-font-hosting.1.0.0.zip](https://github.com/ShanFont/Shan-Font-Self-hosted/releases/download/Shan/shan-font-hosting.1.0.0.zip)
 
 ## Features
 
@@ -38,6 +40,14 @@ shan-font/
 ```
 
 ## Quick Start
+
+### Download and Setup
+
+1. **Download the package**: [shan-font-hosting.1.0.0.zip](https://github.com/ShanFont/Shan-Font-Self-hosted/releases/download/Shan/shan-font-hosting.1.0.0.zip)
+2. **Extract the files** to your project directory
+3. **Upload to your server** (e.g., `/assets/shan-font/`)
+4. **Configure your server** using the included config files
+5. **Implement in your website** following the examples below
 
 ### Basic Implementation
 
@@ -256,8 +266,8 @@ For sites with mixed content, consider creating subsets:
 
 If you prefer CDN hosting, consider these alternatives:
 - **jsDelivr**: `https://cdn.jsdelivr.net/gh/ShanFont/ShanFont@main/shan.css`
-- **GitHub Pages**: Host from your own repository
-- **Custom CDN**: Upload to your preferred CDN service
+- **GitHub Releases**: Download from [GitHub Releases](https://github.com/ShanFont/Shan-Font-Self-hosted/releases)
+- **Custom CDN**: Upload the downloaded package to your preferred CDN service
 
 ## Troubleshooting
 
