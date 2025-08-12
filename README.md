@@ -2,7 +2,7 @@
 
 ![Shan Font Self-Hosting](https://shanfont.com/wp-content/uploads/2025/07/shan-font-on-self-hosting.jpg)
 
-self-hosting **Shan** webfonts includes optimized WOFF2 fonts, CSS with Unicode ranges, and server configurations for optimal caching and security.
+Self-hosting **Shan** webfonts includes optimized WOFF2 fonts, CSS with Unicode ranges, and server configurations for optimal caching and security.
 
 ## Features
 
