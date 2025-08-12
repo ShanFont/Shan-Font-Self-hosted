@@ -1,0 +1,92 @@
+
+/* Shan Font | Self-hosted webfont kit
+   Performance: woff2 only, long-term caching recommended. */
+
+:root {
+  --shan-font-family: "Shan", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif;
+}
+
+/* Weight 100 Thin */
+@font-face {
+  font-family: "Shan";
+  src: url("../fonts/Shan-Thin.woff2") format("woff2");
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+  unicode-range: U+0020-007F, U+1000-109F, U+AA60-AA7F, U+A9E0-A9FF;
+}
+
+/* Weight 100 Thin Italic */
+@font-face {
+  font-family: "Shan";
+  src: url("../fonts/Shan-ThinItalic.woff2") format("woff2");
+  font-weight: 100;
+  font-style: italic;
+  font-display: swap;
+  unicode-range: U+0020-007F, U+1000-109F, U+AA60-AA7F, U+A9E0-A9FF;
+}
+
+/* Weight 400 Regular */
+@font-face {
+  font-family: "Shan";
+  src: url("../fonts/Shan-Regular.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  unicode-range: U+0020-007F, U+1000-109F, U+AA60-AA7F, U+A9E0-A9FF;
+}
+
+/* Weight 400 Italic */
+@font-face {
+  font-family: "Shan";
+  src: url("../fonts/Shan-Italic.woff2") format("woff2");
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+  unicode-range: U+0020-007F, U+1000-109F, U+AA60-AA7F, U+A9E0-A9FF;
+}
+
+/* Weight 700 Bold */
+@font-face {
+  font-family: "Shan";
+  src: url("../fonts/Shan-Bold.woff2") format("woff2");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  unicode-range: U+0020-007F, U+1000-109F, U+AA60-AA7F, U+A9E0-A9FF;
+}
+
+/* Weight 700 Bold Italic */
+@font-face {
+  font-family: "Shan";
+  src: url("../fonts/Shan-BoldItalic.woff2") format("woff2");
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+  unicode-range: U+0020-007F, U+1000-109F, U+AA60-AA7F, U+A9E0-A9FF;
+}
+
+/* Weight 900 Black */
+@font-face {
+  font-family: "Shan";
+  src: url("../fonts/Shan-Black.woff2") format("woff2");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+  unicode-range: U+0020-007F, U+1000-109F, U+AA60-AA7F, U+A9E0-A9FF;
+}
+
+/* Weight 900 Black Italic */
+@font-face {
+  font-family: "Shan";
+  src: url("../fonts/Shan-BlackItalic.woff2") format("woff2");
+  font-weight: 900;
+  font-style: italic;
+  font-display: swap;
+  unicode-range: U+0020-007F, U+1000-109F, U+AA60-AA7F, U+A9E0-A9FF;
+}
+
+/* Optional utility class */
+.font-shan {
+  font-family: var(--shan-font-family);
+}
