@@ -1,13 +1,18 @@
-DRAFT LICENSE PLACEHOLDER
+GNU GENERAL PUBLIC LICENSE
+Version 2, June 1991
 
-Replace this file with your actual font license before publishing.
+Copyright (C) 2025 TaiDev
 
-Common options:
-- SIL Open Font License 1.1 (OFL-1.1)
-- Proprietary license (your terms)
-- Other open source license appropriate for fonts
+This program is free software; you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation; either version 2 of the License, or
+(at your option) any later version.
 
-If you choose OFL-1.1, replace this file with the official text from:
-https://scripts.sil.org/OFL
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+GNU General Public License for more details.
 
-Until replaced, this repository should be considered "All rights reserved".
+You should have received a copy of the GNU General Public License
+along with this program; if not, write to the Free Software
+Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
